@@ -1,0 +1,14 @@
+.gscale{
+  filter:grayscale(80%);
+}
+.ani{
+  transition: all 0.2s;
+
+}
+.ani:hover{
+  scale:1.02;
+}
+
+*{
+  scroll-behavior: smooth;
+}
